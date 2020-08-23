@@ -17,3 +17,4 @@ This folder contains the following subfolders -
 ---
 ## Note
    * This is a responsive website made with only ***HTML5*** and ***CSS3***
+   * So please note that ```no functioning of the form is there```
