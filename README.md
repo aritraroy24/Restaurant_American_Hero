@@ -18,6 +18,9 @@ This folder contains the following subfolders -
 ## Note
    * This is a responsive website made with only ***HTML5*** and ***CSS3***
    * So please note that ```no functioning of the form is there```
+   * No functioning of buttons has been introduced
 
 -----
-## [Live Demo](https://aritraroy24.github.io/Restaurant_American_Hero/)
+## Live Demo :point_down:
+### [American Hero Website](https://aritraroy24.github.io/Restaurant_American_Hero/)
+[![image](https://www.linkpicture.com/q/2020-12-11-23-37-59.gif)](https://www.linkpicture.com/view.php?img=LPic5fd3b8d892fc8869057039)
