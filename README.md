@@ -23,4 +23,4 @@ This folder contains the following subfolders -
 -----
 ## Live Demo :point_down:
 ### [American Hero Website](https://aritraroy24.github.io/Restaurant_American_Hero/)
-[![image](https://www.linkpicture.com/q/2020-12-11-23-37-59.gif)](https://www.linkpicture.com/view.php?img=LPic5fd3b8d892fc8869057039)
+[![image](https://www.linkpicture.com/q/ezgif.com-gif-maker_30.gif)](https://www.linkpicture.com/view.php?img=LPic5fd3bf69a72652029299739)
